@@ -1,4 +1,4 @@
-# Klasifikasi Berita Bahasa Indonesia (News Classification) 📰
+# Klasifikasi Berita Bahasa Indonesia 📰
 Tugas Kelompok - Klasifikasi Berita 
 
 ## 👥 Anggota Kelompok
