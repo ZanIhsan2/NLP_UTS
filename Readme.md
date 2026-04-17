@@ -2,11 +2,11 @@
 Tugas Kelompok - Klasifikasi Berita 
 
 ## 👥 Anggota Kelompok
-* [Ahmad Hamizan] - Informatics Engineering
-* [Ahmad Yudistira Ramdhany] - Informatics Engineering
-* [Muhammad Rizqi Nurrohmat] - Informatics Engineering
-* [Muhammad Zakri Alfiansyah] - Informatics Engineering
-* [Razan Muhammad Ihsan Rismawandi] - Informatics Engineering
+* Ahmad Hamizan - Informatics Engineering
+* Ahmad Yudistira Ramdhany - Informatics Engineering
+* Muhammad Rizqi Nurrohmat - Informatics Engineering
+* Muhammad Zakri Alfiansyah - Informatics Engineering
+* Razan Muhammad Ihsan Rismawandi - Informatics Engineering
 
 ## 📌 Deskripsi Proyek
 Proyek ini bertujuan untuk mengklasifikasikan kategori berita (misal: Politik, Ekonomi, Olahraga, Teknologi) menggunakan teknik Natural Language Processing (NLP). Kami membandingkan performa berbagai algoritma Machine Learning dan teknik ekstraksi fitur untuk mendapatkan akurasi terbaik.
