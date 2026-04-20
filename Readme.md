@@ -1,6 +1,9 @@
 # Klasifikasi Berita Bahasa Indonesia 📰
 Tugas Kelompok - Klasifikasi Berita 
 
+# Link Dataset yang dipakai
+https://www.kaggle.com/datasets/sh1zuka/indonesia-news-dataset-2024 
+
 ## 👥 Anggota Kelompok
 * Ahmad Hamizan - Informatics Engineering
 * Ahmad Yudistira Ramdhany - Informatics Engineering
